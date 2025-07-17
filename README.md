@@ -8,7 +8,7 @@
 
 
 <h3 align="center">This is not my 1st github account i was not able to add my github to rtcamp so i have created new account and this is my main account link</h3>
-<h3>![Main Account Devanshbajpai09](https://github.com/DevanshBajpai09)</h3>
+![Main Account Devanshbajpai09](https://github.com/DevanshBajpai09)
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
